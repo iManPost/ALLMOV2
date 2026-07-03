@@ -167,8 +167,8 @@
 {
 "name":"SPOTV HD 1 รถแข่ง",
 "image":"https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"url":"https://blive99.github.io/m3u8/sporttv/truespotv.m3u8",
-"referer": "https://blive99.github.io/&userAgent=exo_player",
+"url":"http://54.37.19.157/spotv/tracks-v1a1/mono.m3u8",
+"referer": "https://github.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
@@ -177,8 +177,8 @@
 {
 "name":"SPOTV HD 2 รถแข่ง",
 "image":"https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-"url":"https://blive99.github.io/m3u8/sporttv/truespotv2.m3u8",
-"referer": "https://blive99.github.io/&userAgent=exo_player",
+"url":"http://54.37.19.157/spotv2/tracks-v1a1/mono.m3u8",
+"referer": "https://github.com/&userAgent=exo_player",
 "info":"(อัพเดท/5/2/26) by neti",
 "embed": "",
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
